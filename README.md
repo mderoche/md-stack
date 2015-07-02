@@ -12,9 +12,8 @@ $ npm install --save-dev md-stack
 $ bower install md-stack
 ```
 
-## Usage
+## Browser Usage
 
-    // no maximum capacity
     var s = new Stack()
       .push('a')
       .push('b');
@@ -37,6 +36,14 @@ $ bower install md-stack
     console.log(s.size()); // 2
     console.log(s.full()); // true
 
+## Node Usage
+
+     var Stack = require('md-stack');
+     
+     var s = new Stack()
+       .push('a')
+       .push('b');
+    
 ## API
 
 ### Constructor Options
