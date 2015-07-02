@@ -1,0 +1,31 @@
+{
+  "name": "md-stack",
+  "version": "0.0.0",
+  "description": "Microlibrary that provides a Stack data structure.",
+  "main": "dist/md-stack.js",
+  "readmeFilename": "README.md",
+  "author": {
+    "name": "mderoche",
+    "email": "tangiblelime@gmail.com"
+  },
+  "repository": {
+    "url": "",
+    "type": "git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "latest",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.5.0",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-jscs": "^1.1.0",
+    "grunt-lintspaces": "^0.5.1",
+    "jshint-stylish": "^0.2.0",
+    "load-grunt-config": "^0.10.0",
+    "time-grunt": "^0.3.2"
+  }
+}

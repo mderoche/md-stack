@@ -1,0 +1,23 @@
+{
+  "name": "md-stack",
+  "version": "0.0.0",
+  "description": "Microlibrary that provides a Stack data structure.",
+  "main": "dist/md-stack.js",
+  "author": {
+    "name": "mderoche",
+    "email": "tangiblelime@gmail.com"
+  },
+  "repository": {
+    "url": "",
+    "type": "git"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

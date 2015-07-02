@@ -1,0 +1,17 @@
+<script src="md-stack.js"></script>
+
+<script>
+  var s = new Stack();
+  s.push('a');
+  s.push('b');
+  s.push('c');
+  s.push('d');
+
+  console.log(s.size());       // 4
+  console.log(s.pop());        // d
+  console.log(s.peek());       // c
+  console.log(s.indexOf('b')); // 1
+  
+  s.clear();
+  console.log(s.empty());      // true  
+</script>
