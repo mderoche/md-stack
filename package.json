@@ -1,15 +1,15 @@
 {
   "name": "md-stack",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Microlibrary that provides a Stack data structure.",
   "main": "dist/md-stack.js",
   "readmeFilename": "README.md",
   "author": {
     "name": "mderoche",
-    "email": "tangiblelime@gmail.com"
+    "email": "hello@mikederoche.com"
   },
   "repository": {
-    "url": "",
+    "url": "https://github.com/mderoche/md-stack",
     "type": "git"
   },
   "license": "MIT",
