@@ -9,7 +9,7 @@
     "email": "hello@mikederoche.com"
   },
   "repository": {
-    "url": "https://github.com/mderoche/md-stack",
+    "url": "git://github.com/mderoche/md-stack.git",
     "type": "git"
   },
   "license": "MIT",
